@@ -39,14 +39,14 @@ dispatch them service immediately. Resilient in
 showing persistency, attention to detail, and
 adherence to applicable policies.
 ### Technical Skills
-Programming Languages  
+#### _Programming Languages_  
 Java  
 C  
 GitHub  
 Markdown  
 Object-oriented programming  
 Microsoft Word and Excel  
-### _Interpersonal Skills_
+#### _Interpersonal Skills_
 Ability to remain calm under pressure  
 Analytical skills  
 Communication skills  
