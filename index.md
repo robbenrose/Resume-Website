@@ -42,9 +42,10 @@ adherence to applicable policies.
 #### _Programming Languages_  
 Java  
 C  
+#### _Computer Skills_
+Object-oriented programming  
 GitHub  
 Markdown  
-Object-oriented programming  
 Microsoft Word and Excel  
 #### _Interpersonal Skills_
 Ability to remain calm under pressure  
