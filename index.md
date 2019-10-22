@@ -53,7 +53,7 @@ Analytical skills
 Communication skills  
 Detail-oriented  
 Team player  
-### _REFERENCES_
+### REFERENCES
 _Alvin Samaroo_ - Team Lead at SkyBridge Americas  
 (204) 791-6930, asamaroo96@gmail.com  
 _Jill Salter_ - Landscape Foreman at Kindret Landscaping  
