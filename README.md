@@ -1,6 +1,6 @@
 # How to Host Your Resume on GitHub Pages with Jekyll
 
-This README will act as a guide to teach readers how to host a resume website on github pages. Normally this requires learning multiple programming languages and purchasing a domain name. However, by taking advantage of simplified programming languages used for documentation and free hosting services, anyone can set up a resume online that looks professional and custom made.
+This README will act as a guide to teach users how to host a resume website on github pages using a Jekyll template written in Markdown. Normally this requires learning multiple programming languages and purchasing a domain name. However, by taking advantage of simplified programming languages used for documentation and free hosting services, anyone can set up a resume online that looks professional and custom made. And while it is not nearly as expensive or as difficult as creating a website from scratch, donating to template creators is always advised.
 
 ![Complex task overwhelms cartoon man](http://gifgifs.com/animations/computers-technology/communication-devices/Busy_man.gif)
 
