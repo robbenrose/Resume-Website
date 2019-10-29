@@ -4,6 +4,7 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Robert Rose
+title: 3rd year Computer Science Student
 email: robertbenrose@gmail.com
 website: https://robbenrose.github.io/Resume-Website/
 
@@ -15,7 +16,7 @@ linkedin_username: Robert Rose
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name's Robert and I'm a third year CS student at the University of Manitoba.
+  Hello, my name's Robert and I'm a third year Computer Science student at the University of Manitoba.
 
   I am most skilled in: <mark>Java</mark> and <mark>C</mark>
 
