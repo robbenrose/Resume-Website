@@ -6,91 +6,49 @@ This README will act as a guide to teach readers how to host a resume website on
 
 ## Intended Audience
 
-This guide is intended for beginners who have little to no experience with code, documentation, or website design. It has a little technical jargon as possible, and assumes only that the user is able to navigate the internet and has an email address.
+This guide is intended for beginners who have little to no experience with code, documentation, or website design, but are comfortable using a computer. It has a little technical jargon as possible, and assumes only that the user is able to navigate the internet and has an email address.
 
 ## Prerequisites
 
-Users will need an email address and resume information on hand.
-Create a GitHub account with a name that future employers will see.
+Users will need an email address and resume information on hand, possibly a photo of themselves too.
+A GitHub account with a name that future employers will see. If using an account with an embarrassing name, consider creating a new account.
 
 ## Instructions
 
 #### Setup
 
 1. Search Google for a GitHub Pages resume template that you believe looks presentable. Here is an [**example**](https://github.com/sproogen/modern-resume-theme).
-2. At the top of the page just under the GitHub website header, there will be a username/template name. On the left end of the line is the word "Fork". Click this and choose your own GitHub username from the pop-up list. A copy will be created as your own repository.
+2. At the top of the page just under the GitHub website header, there will be a username/template name. Click the word "Fork" to the left of it and choose your own GitHub username from the pop-up list. A copy will be created as your own repository.
+3. Alternatively, download a zip file of a resume template built for GitHub Pages.
+4. Create a Respository with a professional name, such as Resume-Website.
+5. Go to the settings tab and scroll down almost to the bottom, where a section is labeled "GitHub Pages". Choose the main branch as the source, and a link will be generated. This connects to the website.
+6. Return to the main page and click "Upload files".
+7. Extract the zip folder to a new folder, then drag and drop it onto GitHub in your browser to upload the files inside it.
 
 #### Personalizing the template
 
-3. Navigate to your new forked repository, and the folder marked config.yml.
-4. In the right hand corner above the text, click the pen icon to edit the page. Replace the default information with your own.
-5. Scroll to the bottom of the page and click commit to save the changes.
-6. Navigate to the data folder, and repeat the process with the files in that folder.
-7. Any experience sections that are not relevant to you may be deleted, or replaced with relevant sections that apply to your resume and experience.
-8. 
+1. Navigate to your new forked repository, and the folder marked config.yml.
+2. In the right hand corner above the text, click the pen icon to edit the page. Replace the default information with your own.
+3. Scroll to the bottom of the page and click commit to save the changes.
+4. Navigate to the data folder, and repeat the process with the files in that folder.
+5. Any experience sections that are not relevant to you may be deleted, or replaced with relevant sections that apply to your resume and experience.
+6. At the top of the main repository page is a optional description heading. Click edit, and insert the url for your website. This url can be copied from the settings tab under "GitHub Pages".
+7. If your template has the space for a photo, upload one of the specified format using the "Upload Files" button inside the folder where photos are stored. 
 
-### Prerequisites
+## More Resources
 
-What things you need to install the software and how to install them
+For more information on writing with Markdown, utilizing Jekyll, or resolving issues with GitHub, follow one of the following relevant links: 
+- https://www.markdowntutorial.com/
+- https://jekyllrb.com/tutorials/home/
+- http://firstaidgit.io/#/
 
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Authors
+## Authors and Acknowledgement
 
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Brett Harris** - *Website Resume Template* - [Sproogen](https://sproogen.github.io/modern-resume-theme/)
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* (PurpleBooth)[https://gist.github.com/PurpleBooth]
+## FAQs
+**Q**: Isn't copying someone's website template considered pirating? Shouldn't I pay for it or something?
+**A**: The creator will usually indicate that the template if for public use. Some create them as examples of their own skills. Others as a public service simply because they can. Most will include a way to contact them for feedback, and links to patreons or other websites that accept payment are common to support the creators. Sending them some financial support is always appreciated!
+**Q**: My website isn't showing the changes I made! Do I need to press some button or push a commit?
+**A**: Github pages updates after at most 10 minutes the first time it gets set up, and after less than a minute after a change is submitted. Give it more time and it will display correctly.
