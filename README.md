@@ -43,7 +43,7 @@ A GitHub account with a name that future employers will see. If using an account
 11. Paste the url into the optional description at the top of the page.
 11. Upload a photo of yourself into the images or assets file, if your template has an option for a self portrait.
 
-## More Resources
+## Resources
 
 For more information on writing with Markdown, utilizing Jekyll, or resolving issues with GitHub, follow one of the following relevant links: 
 - https://www.markdowntutorial.com/
