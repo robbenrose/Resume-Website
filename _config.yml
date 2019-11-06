@@ -18,7 +18,9 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name's Robert and I'm a third year Computer Science student at the University of Manitoba.
 
-  I am most skilled in: <mark>Java</mark> and <mark>C</mark>
+  Languages I have experience working with are: <mark>Java</mark> and <mark>C</mark> and <mark>Markdown<mark>
+  
+  Frameworks and Tools I have used include: <mark>GitHub<mark>
 
 # Projects Section
 # projects_title: Projects
